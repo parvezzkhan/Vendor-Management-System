@@ -1,4 +1,4 @@
-# Vendor Management System
+# Project Name
 
 Brief description of your project.
 
@@ -21,19 +21,8 @@ Explore the API endpoints using [Postman API Documentation](https://documenter.g
 
 Follow these steps to set up the project locally on your machine.
 
+### Clone the Repository
+
 ```bash
-# Clone the Repository
 git clone https://github.com/your-username/your-repository.git
 cd your-repository
-
-# Install Requirements
-pipenv install --dev
-
-# Apply Migrations
-pipenv run python manage.py migrate
-
-# Create Superuser
-pipenv run python manage.py createsuperuser
-
-# Run the Development Server
-pipenv run python manage.py runserver
