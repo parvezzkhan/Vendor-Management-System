@@ -4,8 +4,7 @@ Vendor Management System is a Django project designed to manage vendors, purchas
 
 ## Getting Started
 
-## API Documentation
-Explore the API endpoints and usage in the [Postman API Documentation](https://documenter.getpostman.com/view/29819419/2s9YeAAZyp).
+Explore the API endpoints using [Postman API Documentation](https://documenter.getpostman.com/view/31599184/2s9YeLZA9F).
 
 
 Follow these instructions to set up the project on your local machine.
@@ -19,7 +18,7 @@ Follow these instructions to set up the project on your local machine.
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Mehmedx7/vendor_management_system.git
+    git clone https://github.com/parvezzkhan/vendor_management_system.git
     cd vendor_management_system
     ```
 
