@@ -17,7 +17,7 @@ Follow these instructions to set up the project on your local machine.
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/parvezzkhan/vendor_management_system.git
+    git clone https://github.com/parvezzkhan/vendor_management_system.git](https://github.com/parvezzkhan/Vendor-Management-System.git
     cd vendor_management_system
     ```
 
