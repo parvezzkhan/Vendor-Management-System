@@ -1,7 +1,6 @@
 # Vendor Management System
 
-Vendor Management System is a Django project designed to manage vendors, purchase orders, and performance metrics.
-
+Vendor Management System is a Django project designed to Simplifying vendor, purchase order, and performance metric management in a single system.
 ## Getting Started
 
 Explore the API endpoints using [Postman API Documentation](https://documenter.getpostman.com/view/31599184/2s9YeLZA9F).
